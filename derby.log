@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Wed Jul 14 16:20:51 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-017a-a4a4-07e7-000000884b70 
+on database directory memory:/Users/snehaagrawal/Documents/My_Imp_Codes/MyFirstSpringBootProject/testdb with class loader sun.misc.Launcher$AppClassLoader@d90313d6 
+Loaded from file:/Users/snehaagrawal/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Eclipse OpenJ9
+java.runtime.version=1.8.0_252-b09
+java.fullversion=1.8.0_252-b09
+JRE 1.8.0 Mac OS X amd64-64-Bit Compressed References 20200427_544 (JIT enabled, AOT enabled)
+OpenJ9   - 05fa2d361
+OMR      - d4365f371
+JCL      - 6a92a55d72 based on jdk8u252-b09
+user.dir=/Users/snehaagrawal/Documents/My_Imp_Codes/MyFirstSpringBootProject
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
